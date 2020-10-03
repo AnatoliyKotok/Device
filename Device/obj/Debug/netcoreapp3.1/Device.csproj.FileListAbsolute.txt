@@ -1,0 +1,11 @@
+C:\Users\Anatoliy\source\repos\Device\Device\obj\Debug\netcoreapp3.1\Device.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\Device\Device\obj\Debug\netcoreapp3.1\Device.AssemblyInfoInputs.cache
+C:\Users\Anatoliy\source\repos\Device\Device\obj\Debug\netcoreapp3.1\Device.AssemblyInfo.cs
+C:\Users\Anatoliy\source\repos\Device\Device\bin\Debug\netcoreapp3.1\Device.exe
+C:\Users\Anatoliy\source\repos\Device\Device\bin\Debug\netcoreapp3.1\Device.deps.json
+C:\Users\Anatoliy\source\repos\Device\Device\bin\Debug\netcoreapp3.1\Device.runtimeconfig.json
+C:\Users\Anatoliy\source\repos\Device\Device\bin\Debug\netcoreapp3.1\Device.runtimeconfig.dev.json
+C:\Users\Anatoliy\source\repos\Device\Device\bin\Debug\netcoreapp3.1\Device.dll
+C:\Users\Anatoliy\source\repos\Device\Device\bin\Debug\netcoreapp3.1\Device.pdb
+C:\Users\Anatoliy\source\repos\Device\Device\obj\Debug\netcoreapp3.1\Device.dll
+C:\Users\Anatoliy\source\repos\Device\Device\obj\Debug\netcoreapp3.1\Device.pdb
